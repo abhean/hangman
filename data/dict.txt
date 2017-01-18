@@ -1,0 +1,4 @@
+house
+child
+horse
+hat
